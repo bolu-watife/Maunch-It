@@ -6,7 +6,7 @@ A work-in-progress responsive landing page for a restaurant brand, built using H
 This project is currently under construction. Features, layout, and design may change as development progresses.
 
 ## 🌐 Live Preview
-[View Site on GitHub Pages](https://megadrumx.github.io/Maunch-It/)
+[View Site on GitHub Pages](https://bolu-watife.github.io/Maunch-It/)
 
 ## 🧠 Concept
 "Maunch It" is envisioned as a modern and visually appealing landing page to promote a food or restaurant brand. It focuses on simplicity, accessibility, and responsiveness.
@@ -28,7 +28,7 @@ This project is currently under construction. Features, layout, and design may c
 3. Customize sections or styles as needed
 
 ## 🙋‍♂️ Author
-**Boluwatife Adeniyi** – [@megadrumx](https://github.com/megadrumx)
+**Boluwatife Adeniyi** – [@bolu-watife](https://github.com/bolu-watife)
 
 ## 📌 License
 This project is open source and free to use under the MIT License.
